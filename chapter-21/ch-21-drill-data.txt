@@ -1,0 +1,10 @@
+Ball 1 23.0
+Kite 2 43.2
+Nail 3 2
+Wire 4 23.30
+Rake 5 23
+Tent 6 89
+Shoe 7 23
+Hose 8 933
+Pail 9 22
+Fork 10 0
